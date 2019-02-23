@@ -1,6 +1,6 @@
-# tsnuxt
+# Nuxt typescript + iView
 
-> nuxt with typescript
+> nuxt with typescript + iView
 
 ## Build Setup
 
